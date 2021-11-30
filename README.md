@@ -5,6 +5,6 @@ Uses SysUtil's PsExec to elevate from Administrator to System, and Start-Process
 
 [Download](https://github.com/YieldingExploiter/OpenSystemCMD/archive/refs/heads/main.zip)
 
-To run, just run `RootCMD.cmd`.
+To get a SYSTEM CMD, just run `RootCMD.ps1`.
 
 To remove the annoying SysInternals Eula warning, run `RemoveSysInternalsEula.bat`
