@@ -1,1 +1,1 @@
-Start-Process -FilePath "PsExec" -Args "-d -i -s $args" -Verb RunAs;
+Start-Process -FilePath "PsExec" -Args "-accepteula -d -i -s $args" -Verb RunAs;
