@@ -11,7 +11,11 @@ A simple tool to run the command passed as an argument as an administrator.
 
 </span>
 
+### Instructions
+
+#### Getting a CMD
 To get a SYSTEM CMD, just run `RootCMD.ps1`.
 
+#### Running commands as SYSTEM
 To run any generic command as root, run `RunAsRoot.ps1 [your command here]`.<br/>
 Please note that, to do this, you need PsExec and RunAsRoot in your PATH, or you need to be in the same directory as both of those files.
