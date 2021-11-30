@@ -1,1 +1,0 @@
-REG ADD HKCU\Software\Sysinternals /v EulaAccepted /t REG_DWORD /d 1 /f
