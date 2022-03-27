@@ -1,5 +1,7 @@
 <span align="center">
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine) 
+
 # OpenSysCMD
 
 [![Lang=PS](https://img.shields.io/badge/Language-Powershell-blue?style=flat-square 'This Project uses PowerShell')](https://github.com/YieldingExploiter/OpenSysCMD/search?l=powershell) [![Uses PSTools](https://img.shields.io/badge/Uses-PSTools-darkblue?style=flat-square 'This project needs PSTools (PsExec) to work')](https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)<br/>
